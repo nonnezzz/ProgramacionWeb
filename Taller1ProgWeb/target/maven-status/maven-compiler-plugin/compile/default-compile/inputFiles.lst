@@ -1,0 +1,16 @@
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/InstructorProfile.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/EnrollmentRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Assessment.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/AssessmentRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Student.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/LessonRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Course.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/StudentRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/InstructorRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/service/StudentService.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/InstructorProfileRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/LmsApplication.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/repo/CourseRepo.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Enrollment.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Lesson.java
+/workspaces/ProgramacionWeb/Taller1ProgWeb/src/main/java/co/unimagdalena/Taller1ProgWeb/model/Instructor.java
