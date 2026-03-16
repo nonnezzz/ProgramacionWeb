@@ -1,0 +1,16 @@
+co/unimagdalena/Taller1ProgWeb/repo/LessonRepo.class
+co/unimagdalena/Taller1ProgWeb/repo/CourseRepo.class
+co/unimagdalena/Taller1ProgWeb/model/Student.class
+co/unimagdalena/Taller1ProgWeb/repo/InstructorProfileRepo.class
+co/unimagdalena/Taller1ProgWeb/LmsApplication.class
+co/unimagdalena/Taller1ProgWeb/repo/StudentRepo.class
+co/unimagdalena/Taller1ProgWeb/model/InstructorProfile.class
+co/unimagdalena/Taller1ProgWeb/model/Enrollment.class
+co/unimagdalena/Taller1ProgWeb/model/Lesson.class
+co/unimagdalena/Taller1ProgWeb/repo/EnrollmentRepo.class
+co/unimagdalena/Taller1ProgWeb/service/StudentService.class
+co/unimagdalena/Taller1ProgWeb/model/Instructor.class
+co/unimagdalena/Taller1ProgWeb/model/Assessment.class
+co/unimagdalena/Taller1ProgWeb/repo/AssessmentRepo.class
+co/unimagdalena/Taller1ProgWeb/model/Course.class
+co/unimagdalena/Taller1ProgWeb/repo/InstructorRepo.class
